@@ -1,6 +1,6 @@
 def comeXpayY(come_x, pay_y, per_head, pax):
     """
-    มา m จ่าย n เช่น มา 4 จ่าย 3
+    มา x จ่าย y เช่น มา 4 จ่าย 3
     :param come_x: มา
     :param pay_y: จ่าย
     :param per_head: ค่าอาหารต่อหัว
