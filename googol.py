@@ -26,5 +26,4 @@ def repeat2(ch, times):
 # demo2()
 # print("1", end='')
 # repeat("0", 100)
-print(repeat2("0", 5))
 print('1' + repeat2("0", 100))
